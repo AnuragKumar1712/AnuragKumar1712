@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Loves to Play Football</p>
+<!--<p align="left">📚 I'm currently learning JavaScript<br>-->
+🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Loves to Play Football</p>
 
 ###
 

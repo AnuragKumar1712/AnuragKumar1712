@@ -11,7 +11,7 @@
 ###
 
 <!--<p align="left">📚 I'm currently learning JavaScript<br>-->
-🎯 Goals: Full Stack Developer<br>🎲 Fun fact: Loves to Play Football</p>
+🎯 Goals: Full Stack Developer and Data Analyst<br>🎲 Fun fact: Loves to Play Football</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anurag Kumar and I'm passionate about web development. I'm dedicated to creating innovative, user-friendly websites that seamlessly blend form and function.</p>
+<p align="left">My name is Anurag Kumar and I'm a Versatile professional skilled in Data Analysis and Full-Stack Web Development. Proficient in Python, SQL, Excel, and libraries like Pandas and Matplotlib for data-driven insights. Experienced in building dynamic, responsive web applications using HTML, CSS, JavaScript, React, and the MERN stack. Strong problem-solving, data visualization, and coding expertise, with a passion for leveraging technology to drive impactful solutions.</p>
 
 ###
 

@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typeScript logo"  />
   <img width="12" />
-  <img src="[https://img.icons8.com/color/48/000000/power-bi.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&psig=AOvVaw1JJ3qSEYFD4W5tsyz-c_Uf&ust=1744475570146000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDCm5m00IwDFQAAAAAdAAAAABAE)" height="40" alt="Power BI logo" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&psig=AOvVaw1JJ3qSEYFD4W5tsyz-c_Uf&ust=1744475570146000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDCm5m00IwDFQAAAAAdAAAAABAE" height="40" alt="Power BI logo" />
 </div>
 
 ###

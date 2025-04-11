@@ -6,12 +6,12 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🎯 About Me</h2>
 
-###
-
-<!--<p align="left">📚 I'm currently learning JavaScript<br>-->
-🎯 Goals: Full Stack Developer and Data Analyst<br>🎲 Fun fact: Loves to Play Football</p>
+<p align="left">
+  I'm currently working toward becoming a Full Stack Developer and Data Analyst.<br>
+  🎲 Fun fact: I love playing football!
+</p>
 
 ###
 
@@ -36,6 +36,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typeScript logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI logo" />
 </div>
 
 ###

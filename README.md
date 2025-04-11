@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typeScript logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" alt="Power BI logo" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI logo" />
   <img width="12" />
 </div>
 
